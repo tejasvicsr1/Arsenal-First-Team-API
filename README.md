@@ -1,9 +1,9 @@
 # Arsenal-First-Team-API
-Simple example of a REST API.  
+Simple example of a **REST API**.  
 
 ## Objective:
 
-The objective of this API is to understand the workings of the REST APIs and the different methods available. 
+The objective of this **API** is to understand the workings of the **REST APIs** and the different _methods_ available. 
 
 ## Requirements:
 
@@ -18,6 +18,7 @@ The objective of this API is to understand the workings of the REST APIs and the
 ## Running the Code:
 
 The code can be run from your terminal using the command `node script.js` once you are in the main directory.
+Once the port is hosting the remaining operations can be done using the PostMan application.
 
 ## Features:
 
